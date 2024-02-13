@@ -1,4 +1,4 @@
-testing git
+Haha here comes a conflict
 testing git line 2
 testing git line 3
 testing git line 4
